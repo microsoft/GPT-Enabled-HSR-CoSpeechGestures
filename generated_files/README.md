@@ -1,0 +1,1 @@
+This folder will contain generated audio and labanotation files.

@@ -1,0 +1,7 @@
+azure-cognitiveservices-speech
+azure-ai-language-conversations
+mutagen
+openai
+numpy
+transformers[torch]
+pygame
